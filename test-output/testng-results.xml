@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="2" passed="2" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-08-26T22:55:48 IST" name="Default suite" finished-at="2024-08-26T22:56:33 IST" duration-ms="45197">
+    <groups>
+    </groups>
+    <test started-at="2024-08-26T22:55:48 IST" name="Default test" finished-at="2024-08-26T22:56:33 IST" duration-ms="45197">
+      <class name="Button.Radion">
+        <test-method signature="button(java.lang.String)[pri:0, instance:Button.Radion@5af3afd9]" started-at="2024-08-26T22:55:48 IST" name="button" data-provider="data" finished-at="2024-08-26T22:56:11 IST" duration-ms="22991" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[male]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- button -->
+        <test-method signature="button(java.lang.String)[pri:0, instance:Button.Radion@5af3afd9]" started-at="2024-08-26T22:56:11 IST" name="button" data-provider="data" finished-at="2024-08-26T22:56:33 IST" duration-ms="22134" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Female]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- button -->
+      </class> <!-- Button.Radion -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
